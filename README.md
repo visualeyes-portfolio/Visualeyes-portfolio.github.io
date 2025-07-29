@@ -1,2 +1,3 @@
 # Visualeyes-portfolio.github.io
-Portfolio Projects
+Portfolio Projects Repository 
+SJ Slatinsky
