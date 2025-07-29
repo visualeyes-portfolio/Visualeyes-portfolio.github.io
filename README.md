@@ -5,6 +5,6 @@ SJ Slatinsky
 For now it's a placeholder, check back
 soon!
 This repo was linked from my portfolio site:
-[portfoliovids.satfact.com]
+[http://portfoliovids.satfact.com]
 (https://portfoliovids.satfact.com)
 
